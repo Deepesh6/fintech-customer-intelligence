@@ -87,3 +87,8 @@ Orchestration DAG (`fintech_pipeline_dag.py`) designed for Linux/cloud deploymen
 - Task 4: Completion log
 
 DAG tested with `airflow dags report` — 4 tasks registered successfully.
+
+## Screenshots
+![Snowflake ML Scores](screenshots/snowflake.png)
+![Airflow DAG](screenshots/image.png)
+![Cluster Profiles](screenshots/k-means.png)
